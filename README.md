@@ -87,7 +87,6 @@ In this example:
 
 - [.NET MAUI Documentation](https://learn.microsoft.com/en-us/dotnet/maui/)
 - [Microsoft Learn - FlexLayout](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/flexlayout)
-- [Xamarin FlexLayout (similar principles apply to MAUI)](https://learn.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/layouts/flexlayout)
 
 # FlexLayout Direction and AlignItems in .NET MAUI
 
@@ -205,7 +204,6 @@ In this example:
 
 - [.NET MAUI Documentation](https://learn.microsoft.com/en-us/dotnet/maui/)
 - [Microsoft Learn - FlexLayout](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/flexlayout)
-- [Xamarin FlexLayout (similar principles apply to MAUI)](https://learn.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/layouts/flexlayout)
 
 # FlexLayout Properties: AlignSelf, Basis, Grow, Order, Shrink in .NET MAUI
 
@@ -315,4 +313,3 @@ The **Shrink** property controls how much an element **shrinks** when there is *
 
 - [.NET MAUI Documentation](https://learn.microsoft.com/en-us/dotnet/maui/)
 - [Microsoft Learn - FlexLayout](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/flexlayout)
-- [Xamarin FlexLayout (similar principles apply to MAUI)](https://learn.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/layouts/flexlayout)
